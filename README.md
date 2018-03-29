@@ -1,3 +1,3 @@
 # self-introduction
-first homework\n
+first homework
 self-introduction
